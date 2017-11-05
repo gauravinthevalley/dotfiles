@@ -20,6 +20,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'tpope/vim-surround'
 Plugin 'leshill/vim-json'
 Plugin 'mxw/vim-jsx'
+Plugin 'scrooloose/nerdcommenter'
 
 
 Plugin 'chriskempson/base16-vim'
